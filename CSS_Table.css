@@ -1,0 +1,15 @@
+tr, th {
+		background-color: deepskyblue;
+		color: white;
+	}
+tr, td {
+		background-color: lightgreen;
+		color: black;
+	}
+td:hover {
+		background-color: yellow;
+		color: black;
+	}
+table {
+		border: 3px solid fuchsia;
+	}
